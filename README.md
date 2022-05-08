@@ -8,4 +8,7 @@ hypotheses:
 
 
 null hypotheses : The new page is equal or less in its impact on conversion actions 𝑝𝑛𝑒𝑤 =< 𝑝𝑜𝑙𝑑
+
+
+
 alternative hypotheses: the new page performs better than the old page in increasing conversions 𝑝𝑛𝑒𝑤 > 𝑝𝑜𝑙𝑑
