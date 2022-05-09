@@ -18,5 +18,5 @@ alternative hypotheses: the new page performs better than the old page in increa
 
 If the p-value <0.01 then there exists an evidence that the new page is statistically different from the old page 
 
-#### to run the code install jupiter notebook from anaconda using coda or pip You also need to install the following libraries:pandas ,numpy, 
+#### to run the code install jupiter notebook from anaconda using coda or pip You also need to install the following libraries:pandas ,numpy, statsmodels and its denpencies 
 #### this project is part of data analysis nanodegree The database only available to download from the course Webpage
